@@ -1,4 +1,4 @@
-# kafka源码分析笔记
+# kafka源码阅读笔记
 
 * [基本结构](https://github.com/forbidden1420/kafka/issues/1)
 * [请求处理流程](https://github.com/forbidden1420/kafka/issues/2)
