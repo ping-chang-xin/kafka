@@ -8,3 +8,5 @@
 * [handleFetchRequest & Zero-copy](https://github.com/forbidden1420/kafka/issues/6)
 * [ReplicaFetcher](https://github.com/forbidden1420/kafka/issues/7)
 * [handleProduceRequest](https://github.com/forbidden1420/kafka/issues/8)
+* [OffsetIndex](https://github.com/forbidden1420/kafka/issues/9)
+
